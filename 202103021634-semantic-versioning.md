@@ -1,3 +1,7 @@
+---
+aliases: [SemVer]
+---
+
 # Semantic versioning
 
 #versioning
@@ -21,6 +25,18 @@ L'incrément d'un numéro entraîne la remise à 0 des numéro suivants :
 2.0.6  + MINEURE = 2.1.0
 1.42.2 + PATCH   = 1.42.3
 ```
+
+## Première release
+
+Au démarrage d'un projet, la majeure porte le chiffre 0. C'est la première phase de développement. Au cours de cette période, la rétrocompatibilité n'est pas garantie.
+
+Une fois la première version stable atteinte, on incrémente la majeure, qui porte alors le chiffre 1.
+
+## Limite
+
+Il faut parfois se méfier des promesses faites au travers de SemVer. Même s'il est de bonne volonté, le mainteneur est toujours susceptible de commettre une erreur qui va casser le code intégrant sa librairie.
+
+En ce sens, [Hynek Schlawack](https://hynek.me/articles/semver-will-not-save-you/) qualifie SemVer de TL;DR du changelog.
 
 ## Ressources
 
