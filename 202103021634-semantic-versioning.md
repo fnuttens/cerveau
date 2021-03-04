@@ -36,7 +36,9 @@ Une fois la première version stable atteinte, on incrémente la majeure, qui po
 
 Il faut parfois se méfier des promesses faites au travers de SemVer. Même s'il est de bonne volonté, le mainteneur est toujours susceptible de commettre une erreur qui va casser le code intégrant sa librairie.
 
-En ce sens, [Hynek Schlawack](https://hynek.me/articles/semver-will-not-save-you/) qualifie SemVer de TL;DR du changelog.
+En ce sens, [Hynek Schlawack](https://hynek.me/articles/semver-will-not-save-you/) qualifie SemVer de TL;DR du changelog :
+
+> Knowing the *intentions* of a maintainer can be valuable – especially *when* things break. Because that’s all *SemVer* is: **a TL;DR of the changelog**.
 
 ## Ressources
 
