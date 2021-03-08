@@ -21,7 +21,7 @@ Les cours de maths privent les élèves de l'opportunité de se poser eux-mêmes
 
 Les cours de maths font des efforts extrêmes pour rapprocher les problèmes posés de situations concrètes. Je pense que cela s'inscrit dans la droite lignée de la phrase qu'on a tous entendu pendant les cours : "Les maths servent toujours dans la vie". Or, les mathématiques sont un art, un moyen de s'exprimer. Les problèmes que résolvent les mathématiciens sont beaux, et les cheminements de pensée qu'ils mettent en œuvre pour les résoudre le sont d'autant plus.
 
-## Ressources
+---
 
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [résumé vidéo](https://youtu.be/Ws6qmXDJgwU)

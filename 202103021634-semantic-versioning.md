@@ -40,7 +40,7 @@ En ce sens, [Hynek Schlawack](https://hynek.me/articles/semver-will-not-save-you
 
 > Knowing the *intentions* of a maintainer can be valuable – especially *when* things break. Because that’s all *SemVer* is: **a TL;DR of the changelog**.
 
-## Ressources
+---
 
 - [spécification](https://semver.org/)
 - [sentimental versioning](http://sentimentalversioning.org/) – gentil troll de semver
