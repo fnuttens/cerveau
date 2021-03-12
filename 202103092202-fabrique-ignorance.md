@@ -22,7 +22,7 @@
 
 1. guerre froide, chercheurs mobilisés par les USA pour contrer la menace soviétique
 2. guerre froide terminée, les mêmes chercheurs se trouvent un nouvel ennemi : les écologistes qui font de la *junk science*
-	- écolos qualifiés de "pastèques" - verts à l'extérieur, rouge à l'intérieur
+	- écolos qualifiés de "pastèques" - verts à l'extérieur, rouges à l'intérieur
 	- les conservateurs croient que les écolos veulent remodeler le monde à l'image du socialisme, au détriment de la liberté individuelle
 
 ## Science non faite
